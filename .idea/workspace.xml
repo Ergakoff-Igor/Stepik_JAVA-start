@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e4f3ad-fdea-4708-aa98-0bcd07fab9a2" name="Changes" comment="Stepik. Java-start">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW1/Homework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Homework1/HW1.png" afterDir="false" />
+    <list default="true" id="02e4f3ad-fdea-4708-aa98-0bcd07fab9a2" name="Changes" comment="Stepik. Java-start. Homework1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/Homework2Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/NumberSystems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Homework1/HW2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Homework2/HW2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="release" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,13 +52,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;task__1&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/wwwel/IdeaProjects/Stepik_JAVA-start/src/main/resources/Homework1/HW_1.png&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/wwwel/IdeaProjects/Stepik_JAVA-start/src/main/java/ru/stepik/ergakov/Main.java&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wwwel\IdeaProjects\Stepik_JAVA-start\src\main\resources\Homework2" />
       <recent name="C:\Users\wwwel\IdeaProjects\Stepik_JAVA-start\src\main\resources\Homework1" />
       <recent name="C:\Users\wwwel\IdeaProjects\Stepik_JAVA-start\src\main\resources" />
       <recent name="C:\Users\wwwel\IdeaProjects\Stepik_JAVA-start" />
@@ -76,6 +83,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -96,11 +104,58 @@
       <option name="project" value="LOCAL" />
       <updated>1699384595804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Stepik. Java-start. Homework1">
+      <option name="closed" value="true" />
+      <created>1699472817268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699472817268</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="task_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stepik. Java-start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stepik. Java-start" />
+    <MESSAGE value="Stepik. Java-start. Homework1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stepik. Java-start. Homework1" />
   </component>
 </project>

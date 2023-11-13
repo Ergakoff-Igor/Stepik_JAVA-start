@@ -1,6 +1,7 @@
 package ru.stepik.ergakov;
 
 import ru.stepik.ergakov.HW2.Task1.Homework2Task1;
+import ru.stepik.ergakov.HW2.Task2.Homework2Task2;
 
 public class Main {
 
@@ -9,5 +10,7 @@ public class Main {
 //        new Homework1().task1();
         // ДЗ № 2 Задание 1:
         new Homework2Task1().homework2Task1();
+        // ДЗ № 2 Задание 2:
+        new Homework2Task2().homework2Task2();
     }
 }

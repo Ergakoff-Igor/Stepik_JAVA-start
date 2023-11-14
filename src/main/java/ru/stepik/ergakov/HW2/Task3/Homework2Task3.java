@@ -6,7 +6,7 @@ public class Homework2Task3 {
         char c2 = 97;
         char c3 = '\u0061';
 
-
-        System.out.printf("c1 -> %s, c2 -> %s, c3 -> %s", c1, c2, c3);
+        System.out.println("Homework 2. Task 2:");
+        System.out.printf("c1 -> %s, c2 -> %s, c3 -> %s\n", c1, c2, c3);
     }
 }

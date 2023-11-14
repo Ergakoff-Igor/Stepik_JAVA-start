@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02e4f3ad-fdea-4708-aa98-0bcd07fab9a2" name="Changes" comment="Stepik. Java-start. Homework1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/Homework2Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/NumberSystems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task3/Homework2Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/Homework2Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/HW2/Task1/Homework2Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/ergakov/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Homework1/HW2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Homework2/HW2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="release" />
+        <entry key="$PROJECT_DIR$" value="task2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,16 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;task__1&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wwwel/IdeaProjects/Stepik_JAVA-start/src/main/resources/Homework1/HW_1.png&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/wwwel/IdeaProjects/Stepik_JAVA-start/src/main/java/ru/stepik/ergakov/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "task3",
+    "last_opened_file_path": "C:/Users/wwwel/IdeaProjects/Stepik_JAVA-start/src/main/java/ru/stepik/ergakov/HW2",
+    "onboarding.tips.debug.path": "C:/Users/wwwel/IdeaProjects/Stepik_JAVA-start/src/main/java/ru/stepik/ergakov/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wwwel\IdeaProjects\Stepik_JAVA-start\src\main\java\ru\stepik\ergakov\HW2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\wwwel\IdeaProjects\Stepik_JAVA-start\src\main\resources\Homework2" />
       <recent name="C:\Users\wwwel\IdeaProjects\Stepik_JAVA-start\src\main\resources\Homework1" />
@@ -82,6 +82,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -141,7 +144,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="task_1" />
+                        <option value="task3" />
                       </list>
                     </value>
                   </entry>

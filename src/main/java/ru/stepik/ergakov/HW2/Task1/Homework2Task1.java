@@ -3,12 +3,12 @@ package ru.stepik.ergakov.HW2.Task1;
 public class Homework2Task1 {
     public void homework2Task1() {
         NumberSystems ns = new NumberSystems();
-        Byte numByte = 12;
+        Byte numByte = 97;
         System.out.println(numByte.getClass().toString() +
                 new Numbers<>(numByte, ns.decimalToBinary(numByte), ns.decimalToOctal(numByte), ns.decimalToHex(numByte)));
 
         Short numShort = 1300;
-        System.out.println(numByte.getClass().toString() +
+        System.out.println(numShort.getClass().toString() +
                 new Numbers<>(numShort, ns.decimalToBinary(numShort), ns.decimalToOctal(numShort), ns.decimalToHex(numShort)));
 
         Integer numInt = 0;
